@@ -1,2 +1,2 @@
-# Black-Friday
-Regression Project
+# Sentiment Analysis
+NLP Project
